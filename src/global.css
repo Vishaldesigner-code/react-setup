@@ -1,0 +1,19 @@
+.registration-form .col-md-5{
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding: 30px 15px;
+}
+body .btn-lg-primary{
+  padding: 10px 30px;
+  margin: 30px 0 15px;
+  background-color: blueviolet;
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+  display: block;
+}
+body .btn-lg-primary:hover{
+  color: white;
+}
+.text-theme{
+  color: blueviolet;
+}
